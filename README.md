@@ -66,7 +66,7 @@ Add different vehicle types
 
 
 ## Screenshot Section
-![Game Screenshot](screenshot.png)
+![Game Screenshot](https://github.com/Charan-S578/TurtleCrossingGame/blob/main/Screenshot%202026-05-17%20130851.png?raw=true)
 
 
 Author
